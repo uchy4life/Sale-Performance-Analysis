@@ -89,3 +89,5 @@ Given that the average sales are close across groups, the Tukey’s HSD test res
 ## Next Steps & Recommendations 
 
 Targeting High School Graduates: This finding could inform targeted marketing efforts or promotions aimed at High School graduates, as this group shows a tendency to spend more on average.
+
+Link to codes {https://github.com/uchy4life/my_notebooks/blob/main/Sales%20Performance%20Analysis.ipynb}
